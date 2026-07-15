@@ -6,7 +6,10 @@
    If there's an error during submission, display the error on the same page without redirection.
    
 **Command to execute the app.py file from Exercise01**
+
 $ python app.py
+
 **The output for Problem 1**
+
 <img width="239" height="281" alt="image" src="https://github.com/user-attachments/assets/a3ed5338-f3d8-438a-92fb-c72a23d8e9ea" />
 
